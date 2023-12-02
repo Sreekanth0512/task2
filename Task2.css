@@ -1,0 +1,307 @@
+body,html
+{
+    padding: 0px;
+    margin: 0px;
+    
+}
+/* navigation start */
+.a-right
+{
+    margin-left: 460px;
+}
+nav a
+{
+    font-size: 20px;
+    color:red;
+    text-decoration: none;
+    margin: 5px;
+    transition: all 1s;
+}
+nav a:hover
+{
+   color:aqua;
+   font-size: 25px;
+}
+/* navigation ends */
+
+/* background image starts */
+.backg
+{
+    background-image: url("https://cdn.pixabay.com/photo/2021/02/15/13/04/couple-6017739__480.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.backg a
+{
+    text-decoration: none;
+}
+.backg button
+{
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    width: 150px;
+    
+}
+.backg div 
+{
+    position: relative;
+    margin-left: 550px;
+    margin-top: 200px;
+    font-size: 25px;
+}
+.backg h1 
+{
+margin-left:-100px;    
+}
+.backg button 
+{
+    margin-left: -50px;
+    outline: none;
+}
+.backg button.LM
+{
+    margin-left: 20px;
+}
+.backg button:hover
+{
+    background-color: aqua;
+    font-size: 20px;
+}
+/* background image ends */
+/* IPSUM Start */
+.IPSUM
+{
+    position: relative;
+    margin-left: 450px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.IPSUM p
+{
+margin-left: 20px;
+}
+/* IPSUM Ends */
+/* Icons Starts */
+
+/* Icon1 Starts */
+.ICONS div
+{   
+    height: 200px;
+    width: 330px;
+    padding: 50px 10px 50px 10px;
+    border: 1px solid black;
+    margin-left: 40px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 40px;
+    display: inline-block;
+}
+.ICONS button
+{ 
+    border-radius: 500px;
+    padding: 20px;
+    background-color: aqua;
+
+}
+.ICONS button:hover
+{
+
+    background-color:blue;
+}
+.ICONS i
+{
+    color:red;
+    font-size: 25px;
+}
+/* Icons Ends  */
+/* background color start */
+.bgcolor
+{ 
+    margin-top: 100px;
+    height: 650px;
+    background-size: cover;
+    background-color: black;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+   
+}
+.bgcolor h1 
+{
+    position: relative;
+    top: 100px;
+}
+.bgcolor p
+{
+    position: relative;
+    top: 100px;
+}
+/* imgs starts */
+.bgcolor img
+{
+    height: 216px;
+    width: 572px;
+    margin-left: 23px;
+    margin-top: 114px;
+}
+/* imgs ends */
+/* text start */
+.text
+{
+    text-align: center;
+    margin-left: -630px;
+    margin-top: -200px;
+    color:red;
+}
+.text a
+{
+    text-decoration: none;
+    color: white;
+
+}
+.text button
+{
+    background-color: red;
+    padding: 5px;
+    outline: none;
+}
+.text:hover
+{
+
+    color: aqua ;
+}
+.text button:hover
+{
+    background-color:blue;
+    
+}
+.text2
+{
+    margin-left: 1250px;
+    margin-top: -176px;
+}
+/* text ends  */
+/* background color ends */
+/* mollis start  */
+.mollis
+{
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 445px;
+    text-align: start;
+}
+.mollis img
+{
+    height: 300px;
+    width: 770px;
+}
+.magna
+{
+    margin-left: 850px;
+    margin-top: -520px;
+    margin-right: 30px;
+    
+}
+/* mollis ends */
+/* footer start  */
+.footer 
+{   
+    margin-top: 70px;
+    margin-left: 5px;
+    height:350px;
+    background-color: blanchedalmond;
+
+}
+.div1
+{
+    display: inline-block; 
+    margin-left: 100px;
+    margin-top:40px;
+}
+.aliquam
+{
+ margin-left: 600px;
+ margin-top: -190px;
+}
+.aliquam i
+{
+ margin: 10px;
+ font-size: 30px;
+ color: red;
+}
+.aliquam a:hover
+{
+    font-size: 50px;
+    color: blue;
+}
+.subtitle
+{ 
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 350px;
+    word-spacing: 5px;
+
+}
+/* footer ends  */
+
+
+/* Right Side Bar starts  */
+.header1
+{
+    text-align: center;
+    color: blue;
+    margin-top: 100px;
+}
+.header1:hover
+{ 
+   
+    /* padding: 40px; */
+    color:chartreuse;
+}
+/* Right Side Bar ends */
+/* Left Side Bar starts */
+/* mollis start  */
+.mollis1
+{
+    margin-top: 100px;
+    margin-left: 490px;
+    /* margin-right: 445px; */
+    text-align: start;
+}
+.mollis1 img
+{
+    height: 300px;
+    width: 770px;
+}
+.magna1
+{
+    margin-left: 50px;
+    margin-top: -510px;
+    margin-right: 850px;
+    
+}
+/* mollis ends */
+/* Left Side Bar ends */
+
+
+/* No side bar starts */
+.mollis2
+{
+    
+    margin-left: 5px;
+    height:100% 100%;
+    margin-right: 5px;
+}
+.mollis2 img
+{
+    height: 400px;
+    width: 1250px;
+}
+/* No side bar ends  */
+
